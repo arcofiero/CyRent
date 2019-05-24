@@ -1,0 +1,4 @@
+SUV 20.70
+HatchBack 12.30
+Sedan 14.75
+Truck 19.00

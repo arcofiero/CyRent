@@ -1,0 +1,6 @@
+User Name: zach
+Car Type:truck
+Car Cost: $19.00
+Hours Booked:24.0
+Total Cost: $501.60
+Confirmation Number: 16169b34-9b1b-4cd9-8ca6-3bab3c1e4005
